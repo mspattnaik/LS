@@ -4693,3 +4693,4 @@ input[type="button"], input[type="submit"], input[type="reset"], button {
 .block{
 	display:block;
 }
+.clearfix{clear:both;}
